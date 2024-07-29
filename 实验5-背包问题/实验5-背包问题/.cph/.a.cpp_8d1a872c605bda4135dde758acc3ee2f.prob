@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"d:\\算法分析\\实验题目\\实验5-背包问题\\实验5-背包问题\\a.cpp","tests":[{"id":1714909462190,"input":"7\n150\n35 10\n30 40 \n60 30\n50 50\n40 35 \n10 40 \n25 30","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\算法分析\\实验题目\\实验5-背包问题\\实验5-背包问题\\a.cpp","group":"local","local":true}
