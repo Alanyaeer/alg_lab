@@ -15,8 +15,8 @@ void quickSort(vector<int> & nums){
         int l = left,  r = right; 
         int tmp = left; 
         while(l < r){
-            while(l < r && num[l] <= num[left]) l++;
             while(l < r && num[r] >= num[left]) r--;
+            while(l < r && num[l] <= num[left]) l++;
             swap(num[l], num[r]);
         }
         // 将 当前 l 和 哨兵的位置进行替换
